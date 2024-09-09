@@ -7,7 +7,7 @@
 int main() {
   std::cout << "Hello World!" << std::endl;
   std::cout << "Hello Solar System!" << std::endl;
-  std::cout << "Galaxy!" << std::endl;
+  std::cout << "Galaxy!" << std::endl;              
   std::cout << "Hello Universe!" << std::endl;
   std::cout << "Hello ...?" << std::endl;
 
@@ -19,3 +19,9 @@ int main() {
   
   return 0;
 }
+
+
+
+////
+//// Falto "Hello" en linea 10
+//// 9.75/10
